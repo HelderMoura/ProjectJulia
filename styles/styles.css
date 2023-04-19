@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    background-color: #FDF4F5;
+    color: #E74646;
+    box-sizing: border-box;
+
+}
+
+.cabecalho {
+padding: 20px;
+color: #E74646;
+background-color: #FFE5CA;
+align-content: center;
+text-align: left;
+font-family: 'Cabin', sans-serif;
+font-size: 20px;
+}
+
+.apresentacao{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: flex-end;
+    gap: 50px;
+}
+
+.apresentacao_3{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.apresentacao_4{
+    font-family: 'Cabin', sans-serif;
+    font-size: 40px;
+}
+
+.apresentacao_titulo{
+    color: #E74646;
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    display: flex;
+    width: 1000px;
+    padding: 2% 0% 0% 0%;
+    
+}
+
+.foto-principal{
+    width: 500px;
+    padding: 0% 0% 0% 0%;
+}
+
+.nossas-fotos {
+    gap: 50px;
+}
+
+.foto-01 {
+    width: 500px;
+}
+
+.foto-02 {
+    width: 500px;
+}
+
+.foto-03 {
+    width: 500px;
+}
+
+.foto-04 {
+    width: 500px;
+}
+
+.foto-05 {
+    width: 500px;
+}
+
+.foto-06 {
+    width: 500px;
+}
+
+.foto-07 {
+    width: 500px;
+}
+
+.foto-08 {
+    width: 500px;
+}
+
+.foto-09 {
+    width: 500px;
+}
+
+.apresentacao_2{
+    color: #E74646;
+    font-family: 'Cabin', sans-serif;
+    font-size: 40px;
+ 
+}
+
+.nossas_fotos_2{
+    margin-bottom: 65px;
+}
+
+.rodape {
+    font-family: 'Cabin', sans-serif;
+    padding: 30px;
+    color: #E74646;
+    background-color: #FFE5CA;
+    align-content: center;
+    text-align: center;
+}
